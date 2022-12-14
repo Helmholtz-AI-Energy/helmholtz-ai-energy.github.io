@@ -1,12 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+#  - Helmholtz-AI-Energy
+#  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Helmholtz-AI-Energy/TBBRDet
+  - Helmholtz-AI-Energy/HyDe
+  - Helmholtz-AI-Energy/BaumBauen
+  - Helmholtz-AI-Energy/MLPerf
+  - Helmholtz-AI-Energy/perun
+  - Helmholtz-AI-Energy/DLRT
+  - Helmholtz-AI-Energy/AI-HERO-Energy
+  - Helmholtz-AI-Energy/AI-HERO-Health
+  - Helmholtz-AI-Energy/beamer-template
+  - Helmholtz-AI-Energy/propulate
+  - Helmholtz-AI-Energy/kseta_2021
